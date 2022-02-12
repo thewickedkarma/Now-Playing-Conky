@@ -18,6 +18,7 @@ sudo apt install conky conky-all
 ``` 
 git clone https://github.com/thewickedkarma/Now-Playing-Conky.git
 cd Now-Playing-Conky
+chmod +x *
 mv * ~/.conky
 conky -c ~/.conky/nowplaying &
 
