@@ -2,6 +2,9 @@
 This is an applet (specifically made for gnome desktop) that displays the current music you're playing on your system. This is inspired from KDE "Now Playing" widget.
 
 
+Pling Store: https://www.pling.com/p/1707915/
+
+
 
 # This is how KDE widget looks like
 <a href='https://images.pling.com/img/00/00/60/32/81/1480598/1ff855e45e5710cc79d77c95a45a819ea027e3de09e49d49d7a6ab8e795677c0f389.png'><img src ='https://images.pling.com/img/00/00/60/32/81/1480598/1ff855e45e5710cc79d77c95a45a819ea027e3de09e49d49d7a6ab8e795677c0f389.png' width ='70%'> </a>
